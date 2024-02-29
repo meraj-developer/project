@@ -1,2 +1,2 @@
 # project
-This is the valuable project
+This is the valuable project in our code
